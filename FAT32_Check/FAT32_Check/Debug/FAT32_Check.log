@@ -1,0 +1,7 @@
+﻿  FAT32_Check.cpp
+D:\Education\second year\4 семестр\курсач\FAT32_Check\FAT32_Check\boot_sector.h(253,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+D:\Education\second year\4 семестр\курсач\FAT32_Check\FAT32_Check\boot_sector.h(253,9): message :  consider using '%lld' in the format string
+D:\Education\second year\4 семестр\курсач\FAT32_Check\FAT32_Check\boot_sector.h(253,9): message :  consider using '%I64d' in the format string
+D:\Education\second year\4 семестр\курсач\FAT32_Check\FAT32_Check\FAT.h(70,43): warning C4244:  'argument': conversion from 'unsigned __int64' to 'size_t', possible loss of data
+D:\Education\second year\4 семестр\курсач\FAT32_Check\FAT32_Check\FAT.h(81,44): warning C4244:  'argument': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+  FAT32_Check.vcxproj -> D:\Education\second year\4 семестр\курсач\FAT32_Check\Debug\FAT32_Check.exe
